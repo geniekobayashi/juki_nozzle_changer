@@ -4,4 +4,4 @@
 
 Reference to https://vimeo.com/144454866
 
-Pick-and-place automatic nozzle changer - designed by Karl Ekdahl.
+Inspired by 'Pick-and-place automatic nozzle changer' - Karl Ekdahl.
