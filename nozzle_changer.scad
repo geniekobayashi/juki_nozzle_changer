@@ -62,14 +62,11 @@ hull(){
 module nozzle_changer_part(){
 difference(){
 // body
-union(){
 rotate([90,0,0]) translate([-12,-30,0])
 linear_extrude(height = thickness, convexity = 5) // base
 	polygon(points = [ [0, -3],[0, 30],[32, 30],[65, 28],
 	[65, -3],
 ]);
-
-}
 
 nozzle_movement();
 
