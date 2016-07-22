@@ -11,5 +11,8 @@ Nozzle mating sequence:
  5. Nozzle leaves from the changer and mating process is done.
 
 Inspired by 'Pick-and-place automatic nozzle changer' - Karl Ekdahl.
-
 Reference to https://vimeo.com/144454866
+
+Assembly:
+
+Please use a wide and flat file for better adhering parts together, also use fine files to make top surface and sliding rails smooth. Teflon spray coating may prolong the life of there parts. You will need a good plastic adhesive cement for final assembly.
