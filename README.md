@@ -15,4 +15,4 @@ Reference to https://vimeo.com/144454866
 
 Assembly:
 
-Please use a wide and flat file for better adhering parts together, also use fine files to make top surface and sliding rails smooth. Teflon spray coating may prolong the life of there parts. You will need a good plastic adhesive cement for final assembly.
+Please use a wide and flat sanding file for better adhering parts together, also use fine sanding files to make top surface and sliding rails smooth. Teflon spray coating may prolong the life of there parts. You will need a good plastic adhesive cement for final assembly.
