@@ -3,12 +3,22 @@
 
 $fn = 32;
 M3 = 3.6;
-thickness = 1.75;
+thickness = 1.8;
+
 
 difference(){
-cube([49-0.4,14-0.4,thickness]);
-translate([41.8,6.8,-4])  cylinder(h=10, r=M3/2);
+minkowski()
+ {
+ cube([46-0.8,11-0.4,thickness-1]);
+ cylinder(r=1.5,h=1);
+ }
+translate([41.8-1.5,6.8-1.5,-4])
+cylinder(h=10, r=M3/2);
 }
 
 translate([0,20,0])
-cube([17-0.4,10-0.4,thickness]);
+minkowski()
+{
+ cube([14-0.8,7-0.4,thickness-1]);
+ cylinder(r=1.5,h=1);
+}
