@@ -1,6 +1,6 @@
 # juki_nozzle_changer
 
-## JUKI 50x nozzle changer using wtih Ray Kholodovsky's holder.
+## JUKI 50x nozzle changer using wtih Ray's holder.
 
 Nozzle mating sequence:
 
@@ -15,3 +15,5 @@ Inspired by 'Pick-and-place automatic nozzle changer' - Karl Ekdahl. https://vim
 Assembly:
 
 Please use a wide and flat sanding file for better adhering parts together, also use fine sanding files to make top surface and sliding rails smooth. Teflon spray coating may prolong the life of there parts. You will need a good plastic adhesive cement for final assembly.
+
+Thanks to Ray Kholodovsky.
