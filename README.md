@@ -8,7 +8,9 @@ http://openpnp.org/
 
 Assembly:
 
-Please use a wide and flat sanding file for better adhering parts together, also use thin fine sanding files to make top surface and sliding ramp path smooth. Teflon spray coating is strongly recommended for silky smooth action and prolong the life of there parts. You will need a good plastic adhesive cement for final assembly. But, take care of clip when apply adhesive cement around - it should move freely.
+Please use a wide and flat sanding file for better adhering parts together, also use thin fine sanding files to make top surface and sliding ramp path smooth. Teflon spray coating is strongly recommended for silky smooth action and prolong the life of there parts. You may need a good plastic adhesive cement for final assembly. But, take care of clip when apply adhesive cement around - it should move freely.
+
+Ganged mount plate can be increase as much changer units as required by editing 'gang' parameter in ganged_mount_plate.scad script. Use M3 cap head hex screw L35mm x2 and L10mm x1 to fix each changer unit on this plate after M3 screw tapping. To fix the plate, use M4 pan-head screws.
 
 Nozzle holding sequence:
 
